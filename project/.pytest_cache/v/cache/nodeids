@@ -1,0 +1,12 @@
+[
+  "tests.py::testMakeAirportDict",
+  "tests.py::testGreatCircledist",
+  "tests.py::testGetAirport",
+  "tests.py::testMakeCurrencyDict",
+  "tests.py::testGetCurrency",
+  "tests.py::testMakeAircraftDict",
+  "tests.py::testGetUnits",
+  "tests.py::testGetShortest",
+  "tests.py::testCheckDistance",
+  "tests.py::testGetRoutes"
+]
