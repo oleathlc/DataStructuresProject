@@ -1,5 +1,5 @@
 READMEConor Lawlor (17203166)This is a my solution for the term project of COMP20230.Prerequisites----------------------This project was created in a Python 3.6 environment, using Eclipse (Version: Oxygen.2 
-Release (4.7.2))Project Structure
+Release (4.7.2)). It will be easier to set up the project if you install [Anaconda](https://conda.io/docs/user-guide/install/download.html) or [Miniconda](https://conda.io/miniconda.html). Other options, such as [PyEnv](https://github.com/pyenv/pyenv) and classic virtual environment (i.e. `venv`), will also work.Project Structure
 -------------------
 The project files (programs and input files) are contained in the Airport_Project
 folder. Within this folder, there are two subfolders, input and project. All project programs are contained within the project subfolder and all the input files that are required to run these programs are contained within the input subfolder.
